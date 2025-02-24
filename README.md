@@ -22,10 +22,6 @@ _Graphical User Interface (GUI)_
 
 This project provides a simple, secure, and efficient method for confidential communication using steganography.
 
-# OUTPUT -
-
-![Picture1](https://github.com/user-attachments/assets/d03b2e68-95cd-42ae-83fd-951ae02b2ed4)
-
 **ADVANTAGES OF STEGANOGRAPHY**
 
 _Enhanced Security –_ 
@@ -49,3 +45,6 @@ Steganography is not under suspicion like classic encryption.
 _Lightweight and Fast –_ 
 It adds and removes messages in real-time without much computation.
 
+# OUTPUT -
+
+![Picture1](https://github.com/user-attachments/assets/4e2e1bd6-43bb-4f06-993f-3728620c264d)
